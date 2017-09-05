@@ -1,5 +1,7 @@
 # Streamers
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/presentation-streams.svg)](https://greenkeeper.io/)
+
 It's a word like stream?
 
 ---
