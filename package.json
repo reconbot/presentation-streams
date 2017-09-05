@@ -7,7 +7,7 @@
     "node": ">8"
   },
   "scripts": {
-    "build": "babel lib dist",
+    "build": "babel -d dist lib",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
