@@ -1,0 +1,25 @@
+{
+  "name": "presentation-streams",
+  "version": "1.0.0",
+  "description": "It's a word like stream?",
+  "main": "index.js",
+  "engines": {
+    "node": ">8"
+  },
+  "scripts": {
+    "build": "babel lib dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reconbot/presentation-streams/issues"
+  },
+  "homepage": "https://github.com/reconbot/presentation-streams#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-async-generator-functions": "^6.24.1",
+    "babel-preset-env": "^1.6.0"
+  }
+}

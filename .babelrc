@@ -1,0 +1,10 @@
+{
+  "plugins": ["transform-async-generator-functions"],
+  "presets": [
+    ["env", {
+      "targets": {
+        "node": "8"
+      }
+    }]
+  ]
+}
